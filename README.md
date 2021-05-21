@@ -1,6 +1,6 @@
 #PyBer_Analysis
 ## Overview
--	The purpose of this analysis is to examine ridesharing data by city type. 
+-	The purpose of this analysis is to examine data on rides for the ridesharing service PyBer. A dataset including information on numbers of rides, drivers, fares, and city type (rural, suburban, and urban) was utilized for the analysis. Analysis and visualizations were made with Pandas, SciPy, NumPy, and Matplotlib.    
 ## Results
 -	https://github.com/pde294/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
 -	The total number of rides accounted for in this dataset is 2,375.
