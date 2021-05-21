@@ -17,6 +17,8 @@
 
 ![image2](analysis/total_fare_city_type.png?raw=true "Title")
 
+ - 
+
 ## Summary
 -	The first recommendation would be to hire more drivers in rural areas.  
 -	The second recommendation would be to slightly increase fares in urban areas. 
