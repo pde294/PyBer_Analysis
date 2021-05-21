@@ -9,7 +9,7 @@
 
 ***Fares by City Type***
 
-![image1](analysis/PyBer_fare_summary.png?raw=true "Title")
+![image1](analysis/totals.png?raw=true "Title")
 
 -	In terms of total fares, urban riders have spent more on total fares over time for rides (over $39,000  for urban riders on total fares in comparison to over $19,000 for suburban riders and over $4,000 for rural riders).
 -	However, in terms of average fares per ride, rural riders spend more than urban and suburban riders (at an average fare per ride of $34.62 for rural riders versus $30.97 for suburban riders and $24.53 for urban riders).
