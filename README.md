@@ -3,6 +3,7 @@
 -	The purpose of this analysis is to examine data on rides for the ridesharing service PyBer. A dataset including information on numbers of rides, drivers, fares, and city type (rural, suburban, and urban) was utilized for the analysis. Analysis and visualizations were made with Pandas, SciPy, NumPy, and Matplotlib. This analysis was conducted to determine actionable insights on better serving customers in areas of demand while promoting affordability for rides. 
   
 ## Results
+***Rider and Driver Totals***
 -	The total number of rides accounted for in this dataset is 2,375.
 -	The total number of drivers is 68,709.
 
