@@ -19,7 +19,7 @@
 ***Fares by Month***
 ![image2](analysis/total_fare_city_type.png?raw=true "Title")
 
- -For the rider data available from January to May 2019, March was the month that had the highest fares for suburban and urban riders, while April was the month that had the highest fares for rural riders. 
+ - For the rider data available from January to May 2019, March was the month that had the highest fares for suburban and urban riders, while April was the month that had the highest fares for rural riders. 
 
 ## Summary
 -	The first recommendation would be to hire more drivers in rural areas. More divers in rural areas would mean as well that there would be more rides and the cost of rural ridesharing may decrease for the riders.  
